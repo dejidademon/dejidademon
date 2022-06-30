@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Adedeji's Adventure 
 
 [Art Project](/sample_page)
 <img src="images/Saleen s7 sketch project.jpg?raw=true"/>
